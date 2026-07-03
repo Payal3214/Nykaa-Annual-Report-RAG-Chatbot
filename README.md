@@ -1,4 +1,4 @@
-# Nykaa-Annual-Report-RAG-Chatbot
+# Nykaa-Annual-Report-RAG-Chatbot https://nykaa-annual-report-rag-chatbot-6bsuzz2ngf6tbkmhcdsrzm.streamlit.app/
 A Retrieval-Augmented Generation (RAG) system built using LangChain, ChromaDB, HuggingFace Embeddings, and a local free LLM (FLAN-T5).
 
 
